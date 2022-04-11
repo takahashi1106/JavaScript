@@ -1,0 +1,3 @@
+[submodule "JavaScript"]
+	path = JavaScript
+	url = git@github.com:takahashi1106/JavaScript.git
